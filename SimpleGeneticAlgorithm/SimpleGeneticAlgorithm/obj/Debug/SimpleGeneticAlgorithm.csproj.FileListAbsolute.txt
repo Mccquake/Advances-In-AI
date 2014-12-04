@@ -1,0 +1,9 @@
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\SimpleGeneticAlgorithm.exe.config
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\SimpleGeneticAlgorithm.exe
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\SimpleGeneticAlgorithm.pdb
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\obj\Debug\SimpleGeneticAlgorithm.exe
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\obj\Debug\SimpleGeneticAlgorithm.pdb
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\Input\data1.txt
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\Input\data2.txt
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\bin\Debug\Input\data3.txt
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\SimpleGeneticAlgorithm\obj\Debug\SimpleGeneticAlgorithm.csprojResolveAssemblyReference.cache

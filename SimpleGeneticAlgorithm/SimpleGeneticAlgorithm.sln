@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGeneticAlgorithm", "SimpleGeneticAlgorithm\SimpleGeneticAlgorithm.csproj", "{8965B464-775B-4B19-88B1-D7880AAE5291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSet3", "DataSet3\DataSet3.csproj", "{C31B127A-89F6-45BC-8C0B-0071EDB5DB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{5613AEFF-D6A5-446F-AA51-93D386CA4F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSet3b", "DataSet3b\DataSet3b.csproj", "{7648517E-C67C-4949-AF65-54B9581B1D0A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://eclipsion.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SimpleGeneticAlgorithm\\SimpleGeneticAlgorithm.csproj
+		SccProjectName1 = SimpleGeneticAlgorithm
+		SccLocalPath1 = SimpleGeneticAlgorithm
+		SccProjectUniqueName2 = DataSet3\\DataSet3.csproj
+		SccProjectName2 = DataSet3
+		SccLocalPath2 = DataSet3
+		SccProjectUniqueName3 = Utilities\\Utilities.csproj
+		SccProjectName3 = Utilities
+		SccLocalPath3 = Utilities
+		SccProjectUniqueName4 = DataSet3b\\DataSet3b.csproj
+		SccProjectName4 = DataSet3b
+		SccLocalPath4 = DataSet3b
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8965B464-775B-4B19-88B1-D7880AAE5291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8965B464-775B-4B19-88B1-D7880AAE5291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8965B464-775B-4B19-88B1-D7880AAE5291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8965B464-775B-4B19-88B1-D7880AAE5291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C31B127A-89F6-45BC-8C0B-0071EDB5DB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31B127A-89F6-45BC-8C0B-0071EDB5DB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31B127A-89F6-45BC-8C0B-0071EDB5DB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31B127A-89F6-45BC-8C0B-0071EDB5DB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5613AEFF-D6A5-446F-AA51-93D386CA4F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5613AEFF-D6A5-446F-AA51-93D386CA4F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5613AEFF-D6A5-446F-AA51-93D386CA4F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5613AEFF-D6A5-446F-AA51-93D386CA4F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7648517E-C67C-4949-AF65-54B9581B1D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7648517E-C67C-4949-AF65-54B9581B1D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7648517E-C67C-4949-AF65-54B9581B1D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7648517E-C67C-4949-AF65-54B9581B1D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

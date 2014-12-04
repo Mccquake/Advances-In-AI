@@ -1,0 +1,9 @@
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\DataSet3b\bin\Release\DataSet3b.exe.config
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\DataSet3b\bin\Release\Input\data3.txt
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\DataSet3b\bin\Release\DataSet3b.exe
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\DataSet3b\bin\Release\DataSet3b.pdb
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\DataSet3b\bin\Release\Utilities.dll
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\DataSet3b\bin\Release\Utilities.pdb
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\DataSet3b\obj\Release\DataSet3b.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\DataSet3b\obj\Release\DataSet3b.exe
+C:\Users\Matt\Source\Workspaces\Eclipsion\SimpleGeneticAlgorithm\DataSet3b\obj\Release\DataSet3b.pdb
